@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_aspnetcore_middleware1", "02_aspnetcore_middleware1.csproj", "{F1C3C2D6-4FA6-4541-85E1-3F9137F30D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C3C2D6-4FA6-4541-85E1-3F9137F30D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C3C2D6-4FA6-4541-85E1-3F9137F30D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C3C2D6-4FA6-4541-85E1-3F9137F30D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C3C2D6-4FA6-4541-85E1-3F9137F30D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
